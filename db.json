@@ -6,7 +6,8 @@
     { "id": 4, "title": "Post 4" },
     { "id": 55, "title": "Post 55" },
     { "id": 66, "title": "Post 55" },
-    { "id": 77, "title": "Post 55" }
+    { "id": 77, "title": "Post 55" },
+    { "id": 88, "title": "Post 55" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
